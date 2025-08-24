@@ -1,0 +1,2 @@
+This approach opens the file in read mode ("r") and reads the entire content into a single string variable. 
+The with statement ensures the file is automatically closed, even if errors occur.
